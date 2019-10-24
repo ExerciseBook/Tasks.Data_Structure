@@ -7,6 +7,9 @@
 3. [Task 3](Task3/)
 4. [Task 4](Task4/)
 
+# 实验课留档
+1. [Exp 1](Exp1/)
+
 # FAQ
 ## 如何减小 Visual Studio 工程文件大小
 将 Visual Studio 工程文件中的下列文件夹删掉可以大幅度减少工程压缩包体积。
