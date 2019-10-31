@@ -10,6 +10,7 @@
 
 # 实验课留档
 1. [Exp 1](Exp1/)
+2. [Exp 2](Exp2/)
 
 # FAQ
 ## 如何减小 Visual Studio 工程文件大小
