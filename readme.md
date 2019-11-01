@@ -7,6 +7,7 @@
 3. [Task 3](Task3/)
 4. [Task 4](Task4/)
 4. [Task 5](Task5/)
+4. [Task 6](Task6/)
 
 # 实验课留档
 1. [Exp 1](Exp1/)
