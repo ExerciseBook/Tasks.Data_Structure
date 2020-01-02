@@ -2,6 +2,7 @@
 
 # 基础信息
 - 仓库地址: <https://github.com/ExerciseBook/Tasks.Data_Structure/>
+- 仓库状态: 已归档
 
 # 作业留档
 1. [Task 1 / 数据结构 第一次课堂作业](Task1/)
